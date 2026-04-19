@@ -1,64 +1,48 @@
-\# 📘 FreeCodeCamp Scientific Computing Projects
+# 📘 FreeCodeCamp Scientific Computing with Python
 
+This repository contains my projects, exercises, and solutions from the **FreeCodeCamp Scientific Computing with Python** course.
 
+It includes multiple Python programs that help me practice programming, problem-solving, and algorithm thinking.
 
-This repository contains my Python projects from the FreeCodeCamp Scientific Computing with Python course.
+---
 
+## 🎯 Purpose
 
+- Learn Python programming from basics to advanced level
+- Practice real-world problem solving
+- Improve logical thinking and coding skills
+- Build strong foundation for software engineering
+- Prepare for freelancing and real projects
 
-\---
+---
 
+## 📂 Repository Structure
 
+This repository contains multiple Python practice files and projects.  
+Each file focuses on a specific concept or problem.
 
-\## 🎯 Purpose
+Example types of projects include:
 
+- Basic Python exercises
+- Algorithm problems
+- Command-line applications
+- Data structure practice
+- Problem-solving challenges
+- FreeCodeCamp certification projects
 
+---
 
-\- Learn Python programming
+## 🛠️ Technologies Used
 
-\- Practice problem solving
+- Python 3
+- Git & GitHub
+- VS Code
 
-\- Improve coding skills
+---
 
-\- Build strong foundation in programming
+## 🚀 How to Run Any File
 
-
-
-\---
-
-
-
-\## 📂 Files
-
-
-
-\- python\_introduction.py → Basic Python exercises
-
-
-
-\---
-
-
-
-\## 🛠️ Tools Used
-
-
-
-\- Python 3
-
-\- Git \& GitHub
-
-
-
-\---
-
-
-
-\## 🚀 How to Run
-
-
+To run any Python file in this repository:
 
 ```bash
-
-python python\_introduction.py
-
+python filename.py
